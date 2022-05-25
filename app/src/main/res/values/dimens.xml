@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="large_margin">20dp</dimen>
+    <dimen name="extra_large_text_size">25sp</dimen>
+    <dimen name="medium_margin">10dp</dimen>
+    <dimen name="small_margin">10dp</dimen>
+    <dimen name="large_text_size">18sp</dimen>
+    <dimen name="medium_text_size">15sp</dimen>
+    <dimen name="_120dp">120dp</dimen>
+</resources>
